@@ -1,0 +1,5 @@
+Makefile explained - Builds all executables
+
+all: makes executables for all
+clean: deletes all object files .o and executables
+d8sh: executable made by linking parsing .o file with the shell .o files and linked with readline using -readline
