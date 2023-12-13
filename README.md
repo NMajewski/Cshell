@@ -1,6 +1,6 @@
 # UNIX Shell Clone in C
-![UNIx SHEll](https://github.com/NMajewski/Shell/assets/90190080/bcec5e37-5912-42c3-9bd0-3f56eaabdd07)
 
+![UNIx SHEll](https://github.com/NMajewski/Cshell/assets/90190080/07d5714c-87aa-43d5-ae61-2608ae3a1e3a)
 
 A UNIX Shell clone written in C, complete with a Makefile and documentation.
 
